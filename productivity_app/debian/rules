@@ -1,0 +1,4 @@
+#!/usr/bin/make -f
+# See debhelper(7) for details.
+%:
+	dh $@
